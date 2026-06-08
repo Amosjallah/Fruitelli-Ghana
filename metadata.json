@@ -1,0 +1,6 @@
+{
+  "name": "Frutelli Company Ghana",
+  "description": "Frutelli Company Ghana is a premium juice manufacturer in Accra, offering fresh fruit juices, bulk distribution, catering supply, and delivery across Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
